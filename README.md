@@ -33,5 +33,3 @@ Each problem is stored in the `solutions/` folder and includes:
 
 ---
 Feel free to explore the solutions or use them for learning and practice!
-
-Feel free to explore the solutions or use them for learning and practice!
