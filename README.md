@@ -10,7 +10,7 @@ Each problem is stored in the `solutions/` folder and includes:
 - Problem title  
 - Difficulty  
 - Link to LeetCode  
-- My SQL solution  
+- SQL solution  
 
 ---
 
